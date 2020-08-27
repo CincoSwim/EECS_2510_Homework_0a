@@ -1,0 +1,3 @@
+C:/Users/Chris/CLionProjects/EECS 2510 Homework 0a/cmake-build-debug/CMakeFiles/EECS_2510_Homework_0.dir
+C:/Users/Chris/CLionProjects/EECS 2510 Homework 0a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chris/CLionProjects/EECS 2510 Homework 0a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
