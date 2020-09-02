@@ -1,3 +1,7 @@
+//Name: Christopher Pucko
+//Course: EECS 2510 - Non-Linear Data Structures
+//Assignment - Homework 0, Part A
+
 #include <iostream>
 using namespace std;
 
